@@ -1,0 +1,12 @@
+/* *********************** */
+/* REUSABLE  COMPONENTS*/
+/* *********************** */
+
+.nav_maxWith {
+    max-width: 134rem;
+    margin: 0 auto;
+}
+.main_maxWith {
+    max-width: 124rem;
+    margin: 0 auto;
+}
