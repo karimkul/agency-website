@@ -1,3 +1,70 @@
 /* *********************** */
 /* HERO SECTION*/
 /* *********************** */
+.hero-section {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10rem 0 0rem;
+}
+.hero-main-box {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    color: black;
+}
+.hero-main-text {
+    font-size: 7.2rem;
+    line-height: 8.9rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+}
+.hero-main-text span {
+    font-family: "Rubik Mono One";
+    font-size: 7.2rem;
+    font-family: 8.9rem;
+    line-height: 8.9rem;
+    font-weight: 400;
+
+    color: #8e8c95;
+}
+.hero-main-topRight {
+    align-self: end;
+}
+.hero-main-desctiption {
+    margin-top: 5rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 4.2rem;
+    color: #55545a;
+}
+.hero-footer-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 5rem 0;
+}
+.hero-footer-icons-box1 {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.hero-footer-icons-box2 {
+    /* justify-content: center; */
+}
+.hero-footer-box2-container {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+.hero-footer-box2-text {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #000000;
+}
+.hero-footer-icons-box3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-top: 9rem;
+}
