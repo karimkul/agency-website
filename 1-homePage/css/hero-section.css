@@ -48,9 +48,7 @@
     flex-direction: column;
     gap: 2rem;
 }
-.hero-footer-icons-box2 {
-    /* justify-content: center; */
-}
+
 .hero-footer-box2-container {
     display: flex;
     align-items: center;

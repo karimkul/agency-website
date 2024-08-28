@@ -1,0 +1,29 @@
+/* *********************** */
+/* CLIENTS SECTION*/
+/* *********************** */
+
+.clients-section {
+    padding: 10rem 0;
+}
+
+.clients-section-text {
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: #3b3a40;
+    margin-bottom: 5rem;
+}
+.clients-section-boxs {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.clients-section-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.border-right {
+    border-right: 1px solid rgb(220, 218, 218);
+}
+.border-bottom {
+    border-bottom: 1px solid rgb(220, 218, 218);
+}
