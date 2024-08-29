@@ -1,0 +1,52 @@
+/* *********************** */
+/* OUR WORKS SECTION*/
+/* *********************** */
+
+.ourWorks-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 6.6rem;
+    padding: 11.6rem 0;
+}
+.ourWork-section-header {
+    display: flex;
+    align-items: center;
+    gap: 15.6rem;
+}
+.ourWorks-header-in {
+    font-size: 4.8rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+    line-height: 5.9rem;
+    color: #000000;
+}
+.ourWorks-header-in span {
+    font-size: 4.8rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+    line-height: 5.9rem;
+    color: #8e8c95;
+}
+.ourWorks-header-text {
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 3.8rem;
+    color: #3b3a40;
+}
+.ourWorks-section-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 4.8rem;
+}
+.ourWorks-section-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2.4rem;
+}
+.ourWorks-footer-text {
+    font-size: 1.8rem;
+    font-weight: 400;
+}
