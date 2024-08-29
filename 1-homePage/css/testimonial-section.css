@@ -1,0 +1,56 @@
+/* *********************** */
+/* TESTIMONIAL SECTION*/
+/* *********************** */
+.testimonial-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21.9rem 0 12rem;
+
+    position: relative;
+}
+.testimonial-body-box {
+    display: flex;
+    flex-direction: column;
+    gap: 4.8rem;
+}
+.testimonial-body-box p {
+    font-size: 3.2rem;
+    font-weight: 400;
+    line-height: 5.2rem;
+    z-index: 2;
+}
+.testimonial-footer-box {
+    display: flex;
+    justify-content: space-between;
+}
+.testimonial-footer-left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+.testimonial-left-intro {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+.testimonial-left-intro h5 {
+    font-size: 1.8rem;
+    font-weight: 700;
+}
+.testimonial-left-intro h6 {
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+.testimonial-footer-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.testimonial-background-img {
+    position: absolute;
+    z-index: 1;
+    left: 7rem;
+    top: 10rem;
+}
