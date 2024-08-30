@@ -1,0 +1,48 @@
+/* *********************** */
+/* FOOTER SECTION*/
+/* *********************** */
+.footer-page {
+    background-color: #000000;
+    color: #ffffff;
+}
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 10rem 0 12rem;
+}
+.footer-contact-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+.footer-contact-list :first-child {
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    margin-bottom: 1rem;
+}
+.footer-contact-list {
+    font-size: 2rem;
+    font-weight: 400;
+}
+.footer-talk-box {
+    display: flex;
+    gap: 6rem;
+}
+.footer-talk-in {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+.footer-talk-in h2 {
+    font-size: 4.8rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+}
+.footer-talk-icon img {
+    margin-top: 2rem;
+}
+.footer-talk-link-box {
+    display: flex;
+    gap: 2rem;
+}
