@@ -1,0 +1,25 @@
+/* *********************** */
+/* NAV  SECTION*/
+/* *********************** */
+.nav-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 3.8rem 0;
+    background-color: #f5f6f9;
+}
+.nav-icon-box {
+    display: block;
+}
+.nav-links-box {
+    display: flex;
+    align-items: center;
+}
+.nav-links-box ul {
+    display: flex;
+    gap: 4.8rem;
+}
+.nav-links-box ul li {
+    font-size: 1.6rem;
+    font-weight: 400;
+    color: #000000;
+}
