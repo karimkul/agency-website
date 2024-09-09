@@ -1,0 +1,64 @@
+/* *********************** */
+/* HERO SECTION*/
+/* *********************** */
+.hero-section {
+    background-color: #f5f6f9;
+}
+.hero-main-container {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10rem;
+    padding-top: 7.2rem;
+}
+.hero-text-box {
+    display: flex;
+    gap: 7.5rem;
+}
+
+.hero-text-left-in {
+    font-size: 7.2rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+    line-height: 8.9rem;
+    color: #000000;
+}
+.hero-text-left-in span {
+    font-size: 7.2rem;
+    font-weight: 400;
+    font-family: "Rubik Mono One";
+    line-height: 8.9rem;
+    color: #8e8c95;
+}
+.hero-text-right-in {
+    margin-top: 2rem;
+    font-size: 2.4rem;
+    font-weight: 400;
+    line-height: 4.2rem;
+}
+.hero-imgs-boxs {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+/* .hero-imgs-box1 {
+    width: 30%;
+}
+.hero-imgs-box2 {
+    width: 20%;
+}
+.hero-imgs-box3 {
+    width: 30%;
+}
+.hero-imgs-box1 {
+    width: 15%;
+} */
+/* .about-hero-img1 {
+    width: 36rem;
+    height: 46rem;
+} */
+.about-hero-img2 {
+    height: 56rem;
+}

@@ -1,0 +1,51 @@
+/* *********************** */
+/* ABOUT US SECTION*/
+/* *********************** */
+.aboutUs-section {
+    background-color: #f5f6f9;
+    padding: 14rem 0;
+    display: flex;
+    align-items: center;
+}
+.aboutUs-main-container {
+    width: 77.9rem;
+}
+.aboutUs-texts-box {
+    padding-right: 12.7rem;
+    margin-bottom: 6.4rem;
+}
+.aboutUs-texts-box-in {
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: #3b3a40;
+    margin-bottom: 2rem;
+}
+.aboutUs-texts-box p {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 2.8rem;
+    margin-bottom: 2rem;
+}
+.aboutUs-texts-box :last-child {
+    margin-bottom: 0;
+}
+.aboutUs-footer-boxs {
+    display: flex;
+    justify-content: space-between;
+}
+.aboutUs-footer-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+.aboutUs-footer-boxs h2 {
+    font-weight: 400;
+    font-size: 4.8rem;
+    font-family: "Rubik Mono One";
+    color: #000000;
+}
+.aboutUs-footer-boxs {
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: #8e8c95;
+}
