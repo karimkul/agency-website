@@ -1,0 +1,36 @@
+/* *********************** */
+/* OFFICES SECTION*/
+/* *********************** */
+.offices-section {
+    background-color: white;
+}
+.offices-main-container {
+    padding: 12rem 0 16rem;
+    display: flex;
+    flex-direction: column;
+    gap: 6.4rem;
+}
+.offices-header-container {
+    display: flex;
+    justify-content: space-between;
+}
+.offices-body-container {
+    display: flex;
+    justify-content: space-between;
+}
+.offices-header-text-box h4 {
+    margin-bottom: 2rem;
+
+    font-size: 2.4rem;
+    font-weight: 700;
+}
+.offices-header-text-box p {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 3rem;
+}
+.offices-header-arrow-box {
+    display: flex;
+
+    gap: 2.6rem;
+}
