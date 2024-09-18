@@ -7,7 +7,7 @@
 .nav-main-container {
     display: flex;
     justify-content: space-between;
-    padding: 3.8rem 0;
+    padding: 3.8rem 5rem;
     background-color: #f5f6f9;
 }
 .nav-icon-box {

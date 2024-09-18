@@ -1,0 +1,64 @@
+/* *********************** */
+/* CLIENTS SECTION*/
+/* *********************** */
+.team-section {
+    background-color: #f5f6f9;
+}
+.team-main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4.7rem;
+    padding: 10rem 0;
+}
+.team-header-container h4 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+}
+.team-header-container p {
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 4rem;
+}
+.team-body-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+.team-body-card {
+    display: flex;
+    gap: 2.6rem;
+    align-items: center;
+    padding: 4.6rem;
+    width: 32%;
+    /* background-color: white; */
+    border: 1px solid #efefef;
+}
+.team-body-card:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+}
+.team-body-textBox {
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+}
+.team-body-textBox-name {
+    font-size: 2rem;
+    font-weight: 700;
+}
+.team-body-textBox-position {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #8e8c95;
+}
+.team-body-textBox-link:visited {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #02d094;
+}
+.team-body-textBox-link:link {
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: #02d094;
+}
