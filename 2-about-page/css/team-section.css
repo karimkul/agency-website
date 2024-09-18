@@ -37,6 +37,7 @@
 .team-body-card:hover {
     background-color: #ffffff;
     cursor: pointer;
+    transition: 1s;
 }
 .team-body-textBox {
     display: flex;
